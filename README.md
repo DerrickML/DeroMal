@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank"> 
-    <img src="https://commons.wikimedia.org/wiki/File:Arduino_Logo.svg" alt="Arduino" width="40" height="40"/> 
+    <img src="https://cdn.cdnlogo.com/logos/a/22/arduino.svg" alt="Arduino" width="40" height="40"/> 
   </a>
   <a href="https://www.raspberrypi.org/" target="_blank"> 
     <img src="https://cdnlogo.com/logo/raspberry-pi_39604.html"><img src="https://cdn.cdnlogo.com/logos/r/98/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/> 
