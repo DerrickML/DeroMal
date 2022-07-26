@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://www.php.net/" target="_blank"> 
-    <img src="https://www.google.com/imgres?![image](https://user-images.githubusercontent.com/40387583/180991091-be573d94-6ce2-4998-ad05-c2e5c0aced2c.png)
+    <img src="https://user-images.githubusercontent.com/40387583/180991091-be573d94-6ce2-4998-ad05-c2e5c0aced2c.png" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://www.javascript.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
