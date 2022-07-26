@@ -22,6 +22,12 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
+  <a href="https://www.arduino.cc/" target="_blank"> 
+    <img src="https://commons.wikimedia.org/wiki/File:Arduino_Logo.svg" alt="Arduino" width="40" height="40"/> 
+  </a>
+  <a href="https://www.raspberrypi.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/raspberrypi/index.html" alt="Raspberry Pi" width="40" height="40"/> 
+  </a>
   <a href="https://www.php.net/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/40387583/180991091-be573d94-6ce2-4998-ad05-c2e5c0aced2c.png" alt="php" width="40" height="40"/> 
   </a>
