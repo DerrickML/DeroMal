@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Derrick<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Embedded Systems Developer from Uganda</h3>
+<h3 align="center">A passionate IoT/Embedded Systems Developer from Uganda</h3>
 
 - 🔭 I’m currently working on my **Software Engineering Skills**
 
-- 🌱 I’m currently learning **C, Python, and Bash**
+- 🌱 I’m currently furthering my skills in **C/C++, Python, and the NodeJS environment**
 
 - 👯 I’m looking to collaborate on **awesome embedded systems projects**
 
